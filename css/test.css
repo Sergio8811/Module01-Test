@@ -11,13 +11,13 @@ h1, h2, h3 {
     text-transform: uppercase;
     letter-spacing: 0.5px;
 }
-.header {
+header {
     font-size: 20px;
     display: flex;
     border-bottom: 1px solid #000;
     padding-bottom: 10px;
 }
-.footer {
+footer {
     font-size: 13px;
 }
 .logo {
@@ -42,7 +42,7 @@ ul > li {
     gap: 20px;
     border-bottom: 1px solid #000;
 }
-.aside {
+aside {
     border-right: 1px solid #000;
     padding-right: 20px;
 }
