@@ -38,7 +38,7 @@ ul {
     margin: 0;
 }
 ul > li {
-    margin-right: 30px;
+    margin-right: 0px;
 }
 .box {
     display: flex;
@@ -62,8 +62,20 @@ section {
     background: rebeccapurple;
     color: white;
     padding: 8px 15px;
-    margin-left: 10px;
+    margin-left: 0px;
 }
 .nav li:last-child {
     margin-right: 0;
+}
+.results {
+    display: flex;
+    gap: 10px;
+}
+.link {
+    display: block;
+    text-align: center;
+}
+.nav {
+    display: flex;
+    gap: 30px;
 }
