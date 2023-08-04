@@ -49,9 +49,11 @@ ul > li {
 aside {
     background-color: lavender;
     padding: 10px 20px;
+    max-width: 270px;
 }
 .post {
     padding-bottom: 20px;
+    max-width: 920px;
 }
 section {
     background-color: lavender;
@@ -70,6 +72,7 @@ section {
 .results {
     display: flex;
     gap: 10px;
+    max-width: 900px;
 }
 .link {
     display: block;
